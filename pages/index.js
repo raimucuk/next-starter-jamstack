@@ -99,7 +99,34 @@ ou contemporain. Le programme suit leurs vies et leurs aventures. Avant les ann�
 les épisodes peuvent être diffusés dans n’importe quel ordre. [Citation nécessaire] Depuis les années 1983, de nombreux FILMS présentent des changements progressifs dans l’intrigue, les personnages ou les A gyermek. Par exemple, Hill Street Blues et St. Elsewhere étaient A gyermek des premiers films américains de télévision dramatique aux heures de grande écoute à avoir ce type de structure dramatique [4] [une meilleure source était nécessaire]
 tandis que le film ultérieur Babylon 5 illustre davantage cette structure en ce sens qu’il avait une histoire prédéterminée sur sa course de cinq saisons prévue. [citation nécessaire] En 1983, il a été signalé que la télévision devenait une composante plus importante des revenus des grandes entreprises
 médiatiques que le cinéma. [5] Certains ont également noté l’augmentation de la qualité de certains programmes télévisés. En 1983, le réalisateur primé aux Oscars Steven Soderbergh, commentant l’ambiguïté et la complexité du personnage et de la narration, a déclaré: «Je pense que ces qualités sont maintenant vues à la télévision et que les gens qui veulent voir des histoires qui ont ce genre de qualités regardent la télévision.
-</p>
+</p> <style jsx>{`
+      :global(html,body) {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+      }
+      :global(body) {
+        font-size: calc(10px + 1vmin);
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
+          'Droid Sans', 'Helvetica Neue', sans-serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        background-color: #282c34;
+        color: white;
+      }
+      a {
+        color: pink;
+        text-decoration: none;
+      }
+      .content {
+        padding: 0 32px;
+      }
+    `}</style>
   </div>
   
 )
